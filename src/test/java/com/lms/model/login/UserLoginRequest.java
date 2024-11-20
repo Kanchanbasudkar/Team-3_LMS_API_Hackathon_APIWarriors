@@ -4,7 +4,7 @@ package com.lms.model.login;
 import lombok.Data;
 
 @Data
-public class UserLogin {
+public class UserLoginRequest {
 
     String userLoginEmailId;
     String password;
